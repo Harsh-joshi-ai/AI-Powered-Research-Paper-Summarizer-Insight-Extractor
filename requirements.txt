@@ -1,0 +1,46 @@
+google-genai
+python-dotenv
+groq
+
+
+# for data extract from PDF
+requests
+pymupdf
+spacy
+
+pandas
+feedparser
+openpyxl
+# python -m spacy download en_core_web_sm
+
+
+#summary
+torch
+torchvision
+transformers
+
+#T5 summarization
+#transformers 
+sentencepiece
+
+
+
+# insight 
+langchain
+langchain-community
+langchain-core
+huggingface_hub
+langchain_groq
+langchain_huggingface
+faiss-cpu 
+
+
+
+sentence-transformers
+
+
+streamlit
+
+neo4j
+pyvis
+openpyxl
